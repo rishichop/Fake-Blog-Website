@@ -4,7 +4,7 @@ import smtplib
 
 app = Flask(__name__)
 BLOG_API = "https://api.npoint.io/674f5423f73deab1e9a7"
-EMAIL = "chopaderishikesh@gmail.com"
+EMAIL = ""
 PASS = ""
 
 
